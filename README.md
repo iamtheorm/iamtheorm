@@ -13,7 +13,7 @@ Welcome to my GitHub profile! 🚀 I'm a passionate software developer, open-sou
   I'm skilled in **C++**, **Python**, **JavaScript**, and love working with frameworks like **React**, **Node.js**, and **Next.js**.  
 
 - 🎯 **Achievements**  
-  - Solved 40+ DSA problems on LeetCode.  
+  - Solved 150+ DSA problems on LeetCode.  
   - Top 30 in SIH (Smart India Hackathon) university level.  
   - 8000+ points on Google Cloud Skill Boost.  
   - Open Source Contributor for Hacktoberfest.  
