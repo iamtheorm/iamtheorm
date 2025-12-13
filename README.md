@@ -10,7 +10,7 @@ Welcome to my GitHub profile! 🚀 I'm a passionate software developer, open-sou
   Leading events, building a community of tech enthusiasts, and creating opportunities for learning and growth in Cisco technologies.  
 
 - 💻 **Tech Enthusiast**  
-  I'm skilled in **C++**, **Python**, **JavaScript**, and love working with frameworks like **React**, **Node.js**, and **Next.js**.  
+  I'm skilled in **C++**, **Python**, **JavaScript**, and love working with frameworks like **React**, **Node.js**, **Golang** and **Next.js** .  
 
 - 🎯 **Achievements**  
   - Solved 150+ DSA problems on LeetCode.  
