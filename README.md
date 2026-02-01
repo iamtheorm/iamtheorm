@@ -133,15 +133,7 @@
   
   <br/>
 
-  <a href="https://github.com/iamtheorm">
-    <img src="https://github-readme-stats.vercel.app/api?username=iamtheorm&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats" />
-  </a>
-  
-  <br/>
-  
-  <a href="https://github.com/iamtheorm">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamtheorm&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
+
 
   <br/>
   
