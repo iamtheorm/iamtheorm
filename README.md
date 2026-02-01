@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Ritik+Mishra;Agentic+AI+Developer;Full+Stack+Engineer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Ritik+Mishra;Agentic+AI+Developer;AI+Engineer;Software+Engineer" alt="Typing SVG" />
 
   <br/>
 
@@ -133,11 +133,27 @@
   
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=iamtheorm&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats" />
+  <a href="https://github.com/iamtheorm">
+    <img src="https://github-readme-stats.vercel.app/api?username=iamtheorm&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats" />
+  </a>
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamtheorm&theme=radical&hide_border=true" alt="Streak Stats" />
+  <a href="https://github.com/iamtheorm">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamtheorm&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
+
+  <br/>
+  
+  <a href="https://github.com/iamtheorm">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamtheorm&theme=radical&hide_border=true" alt="Streak Stats" />
+  </a>
+
+  <br/>
+
+  <a href="https://leetcode.com/u/b3I2er95LI/">
+    <img src="https://leetcard.jacoblin.cool/b3I2er95LI?theme=radical&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  </a>
 
 </div>
 
