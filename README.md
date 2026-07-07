@@ -52,6 +52,7 @@
   ### Programming Languages
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
@@ -60,6 +61,7 @@
   ### Frontend
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-F50?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -114,38 +116,85 @@
 
 ---
 
+## 💡 Core Insights & Why Work With Me
+
+I specialize in **Agentic AI development, computer vision, and high-performance native applications**. Here is what I bring to the table and why I make a great engineering partner:
+
+*   **Self-Correcting Agentic Systems:** I don't just prompt APIs. I design stateful agentic loops, robust validation pipelines, and data-integrity mechanisms (e.g., implementing strict data deduplication and performance tuning in **Tawjihi AI**).
+*   **Privacy-First & Edge AI Execution:** Experienced in running models locally on-device (macOS/iOS) using Apple Silicon optimizations, WhisperKit, and local Swift frameworks (like **SpeakType** and **FocusFlow**), ensuring zero-latency and 100% data confidentiality.
+*   **Advanced Applied Science:** Capable of translating complex academic papers and engineering formulations into production-grade systems (such as using RAFT optical flow models combined with physics-based stress formulations in the **Visual Stress Detection System**).
+*   **End-to-End Execution:** From database indexing and FastAPI microservices to fluid Next.js or native SwiftUI frontends, I build systems that are responsive, modular, and scalable.
+
+---
+
+## 🛠️ Selected Projects by Domain
+
+### 🤖 1. Agentic AI & Recommendation Engines
+*Systems that reason, recommend, and self-correct.*
+
+*   **[Tawjihi AI](https://github.com/iamtheorm/tawjihi_public)** – *AI-Powered Customer Recommendation Platform for Banking*
+    *   **Goal:** Generate hyper-personalized banking recommendations based on demographics, financial history, and real-time behavioral insights.
+    *   **Key Achievement:** Built a robust API deduplication engine that eliminated 100% of recommendation anomalies and database bloat while expanding product coverage by 33%.
+    *   **Tech Stack:** FastAPI, Next.js, Python, PostgreSQL, Pydantic, Tailwind CSS
+*   **[CAPE](https://github.com/Woundrite/CAPE)** – *Comprehensive Assessment Proctoring Engine*
+    *   **Goal:** Secure, real-time proctoring engine facilitating exam security and academic resource allocation.
+    *   **Tech Stack:** React, Node.js, Astro, MongoDB, SQL
+
+---
+
+### 🍏 2. Privacy-First Native Apps (macOS & iOS)
+*Offline-first tools utilizing Apple Silicon optimization and local ML models.*
+
+*   **[SpeakType](https://github.com/karansinghgit/speaktype)** – *Fast, Offline Voice-to-Text Dictation Tool for macOS*
+    *   **Goal:** Provide zero-latency, 100% offline global voice-to-text dictation directly into any text field on macOS.
+    *   **Key Achievement:** Integrated OpenAI's Whisper model locally via WhisperKit, optimizing inference on Apple Silicon (M1+) to operate with 0% network usage.
+    *   **Tech Stack:** Swift, SwiftUI, WhisperKit, AVFoundation, AppKit
+*   **[FocusFlow](https://github.com/karansinghgit/focusflow)** – *ADHD-Friendly Productivity App (Digital Prosthesis)*
+    *   **Goal:** Assist individuals with executive dysfunction using smart NLP text input, haptic dopamine feedback loops, and energy-based task filtering.
+    *   **Tech Stack:** SwiftUI, Swift Concurrency, iOS 18+ SDK, `@Observable` state management
+
+---
+
+### 👁️ 3. Physical ML & Computer Vision
+*Integrating physics-based modeling and deep computer vision.*
+
+*   **[Visual Stress Detection System](https://github.com/iamtheorm/cvgroupproject)** – *Micro-deformation & Structural Failure Risk Engine*
+    *   **Goal:** Detect sub-pixel deformations in sequences and compute structural risk under stress.
+    *   **Key Achievement:** Combined RAFT dense optical flow with physics-based formulations (Young's Modulus, Von Mises stress) to map temporal strain and predict failure probabilities using machine learning.
+    *   **Tech Stack:** PyTorch, OpenCV, Streamlit, SciPy, Python
+*   **[Intelligent Vision System](https://github.com/iamtheorm/Intelligent-Vision-System)** – *Modular Computer Vision Toolkit*
+    *   **Goal:** End-to-end computer vision pipeline from enhancement to stereo depth map estimation.
+    *   **Tech Stack:** Python, OpenCV, NumPy, scikit-learn, Streamlit
+
+---
+
 <div align="center">
-
-  ## 🌟 Key Projects
-
-  | **Project** | **Description** | **Tech Stack** |
-  | :--- | :--- | :--- |
-  | **[CAPE](https://github.com/Woundrite/CAPE)** | **Comprehensive Assessment Proctoring Engine**. Real-time updates, student data organization, and study materials. | React, Node.js, Astro, MongoDB, SQL |
-  | **[Eldorado Goa](https://www.eldoradogoa.vip/)** | Engaging and responsive website for a startup. Improved engagement by **40%**. | HTML, CSS, JavaScript, WordPress |
-
-</div>
-
-<br/>
-
-<div align="center">
   
-  ## 📊 GitHub Stats
-  
-  <br/>
-
-
-
-  <br/>
-  
-  <a href="https://github.com/iamtheorm">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamtheorm&theme=radical&hide_border=true" alt="Streak Stats" />
-  </a>
+  ## 📊 GitHub Stats & Developer Profile
 
   <br/>
 
-  <a href="https://leetcode.com/u/b3I2er95LI/">
-    <img src="https://leetcard.jacoblin.cool/b3I2er95LI?theme=radical&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
-  </a>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=iamtheorm&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+    &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamtheorm&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" width="48%" />
+  </p>
+
+  <br/>
+  
+  <p align="center">
+    <a href="https://github.com/iamtheorm">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamtheorm&theme=radical&hide_border=true" alt="Streak Stats" />
+    </a>
+  </p>
+
+  <br/>
+
+  <p align="center">
+    <a href="https://leetcode.com/u/b3I2er95LI/">
+      <img src="https://leetcard.jacoblin.cool/b3I2er95LI?theme=radical&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+    </a>
+  </p>
 
 </div>
 
